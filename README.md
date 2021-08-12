@@ -1,2 +1,2 @@
-# SocGen-Training-Project
+# Training-Project
 SocGen Training Project Java and Springboot
